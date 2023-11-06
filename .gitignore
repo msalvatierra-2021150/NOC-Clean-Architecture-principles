@@ -1,0 +1,16 @@
+# Directories
+node_modules/
+dist/
+logs/
+mongo/
+postgres/
+mongo-test/
+postgres-test/
+coverage/
+prisma/
+
+# Files
+.DS_Store
+.env
+package-lock.json
+.env.test
